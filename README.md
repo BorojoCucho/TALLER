@@ -1,57 +1,49 @@
-Proyectos Python - Joseph Alexander
+# Proyectos Python - Joseph Alexander
 
-Este repositorio contiene dos aplicaciones desarrolladas en Python utilizando la biblioteca Tkinter para la creación de interfaces gráficas.
+Este repositorio contiene dos aplicaciones desarrolladas en Python utilizando la biblioteca **Tkinter** para la creación de interfaces gráficas.
 
-Proyecto 1: Adivinador de Números
+---
+
+## Proyecto 1: Adivinador de Números
 
 Juego simple donde el usuario debe adivinar un número secreto generado aleatoriamente entre 1 y 100 en un máximo de 10 intentos.
 
-Características
+### Características
+- Genera un número secreto aleatorio.
+- El usuario ingresa sus intentos y recibe pistas (mayor o menor).
+- Control de intentos restantes.
+- Indicaciones claras en la interfaz.
+- Icono personalizado (si está disponible).
 
-Genera un número secreto aleatorio.
+---
 
-El usuario ingresa sus intentos y recibe pistas (mayor o menor).
-
-Control de intentos restantes.
-
-Indicaciones claras en la interfaz.
-
-Icono personalizado (si está disponible).
-
-Proyecto 2: Gestor de Recetas
+## Proyecto 2: Gestor de Recetas
 
 Aplicación para administrar recetas de cocina, donde puedes agregar, visualizar y eliminar recetas con sus respectivos ingredientes.
 
-Características
+### Características
+- Agregar nuevas recetas con nombre e ingredientes.
+- Visualizar los ingredientes en una ventana aparte.
+- Eliminar recetas seleccionadas.
+- Menú con opciones de ayuda y salida.
+- Recetas predeterminadas incluidas para empezar.
 
-Agregar nuevas recetas con nombre e ingredientes.
+---
 
-Visualizar los ingredientes en una ventana aparte.
+## Tecnologías usadas
 
-Eliminar recetas seleccionadas.
+- Python 3
+- Tkinter (interfaz gráfica)
 
-Menú con opciones de ayuda y salida.
+---
 
-Recetas predeterminadas incluidas para empezar.
+## Cómo ejecutar
 
-Tecnologías usadas
-
-Python 3
-
-Tkinter (interfaz gráfica)
-
-Cómo ejecutar
-
-Clona o descarga este repositorio.
-
-Ejecuta cada script por separado:
-
-python adivinador.py
-python gestor_recetas.py
-
-
-Para el adivinador, asegúrate de tener el archivo icono.ico en la misma carpeta si quieres usar el icono personalizado.
-
+1. Clona o descarga este repositorio.
+2. Ejecuta cada script por separado:
+   ```bash
+   python adivinador.py
+   python gestor_recetas.py
 Autor
 
 Joseph Alexander
