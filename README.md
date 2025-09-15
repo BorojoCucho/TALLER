@@ -4,6 +4,8 @@ Este repositorio contiene dos aplicaciones desarrolladas en Python utilizando la
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ## Proyecto 1: Adivinador de Números
 
 Juego simple donde el usuario debe adivinar un número secreto generado aleatoriamente entre 1 y 100 en un máximo de 10 intentos.
